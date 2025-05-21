@@ -1,0 +1,10 @@
+{
+  "name": "MMM-OASA-Live",
+  "version": "1.0.0",
+  "description": "MagicMirror\u00b2 module for live OASA (Athens) bus arrivals",
+  "main": "MMM-OASA-Live.js",
+  "scripts": {},
+  "author": "kzioudas",
+  "license": "MIT",
+  "dependencies": {}
+}
